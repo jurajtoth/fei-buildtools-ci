@@ -28,7 +28,7 @@
                         &lt;/executions&gt;
                 &lt;/plugin&gt;
         &lt;/plugins&gt;
-&lt;/build&gt;</pre>;
+&lt;/build&gt;</pre>
 3. Go to commandline, to the folder with the project and execute `mvn clean package`
 4. After finished, Maven built us a single .jar file, which contains all the classes including the dependencies. 
 Launch the application by executing `java -jar target/movielist-maven-0.0.1-SNAPSHOT-jar-with-dependencies.jar` 
