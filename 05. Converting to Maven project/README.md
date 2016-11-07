@@ -5,3 +5,5 @@
 3. All application sources are located in `src/main/java` folder. Create this folder and place your `MovieList.java` source file there. You final folder structure should be `src/main/java/sk/fei/ci/MovieList.java`
 4. All application test sources are located in `src/test/java` folder. Create this folder and place your `MovieListTest.java` source file there. You final folder structure should be `src/test/java/sk/fei/ci/MovieListTest.java`
 5. You can delete `run.bat` and `run-test.bat` files. We won't be using those to build or test our project anymore.
+
+Next exercise: [6. Runtime dependencies](https://github.com/jurajtoth/fei-buildtools-ci/tree/master/06.%20Runtime%20dependencies)

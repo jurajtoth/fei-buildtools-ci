@@ -11,3 +11,5 @@
 	- `git commit -m "Project migrated to Maven"`
 	- `git push`
 6. This push will automatically trigger Travis build which you can check on Travis website.
+
+Next exercise: [10. Configuring Travis to send mail notification](https://github.com/jurajtoth/fei-buildtools-ci/tree/master/10.%20Configuring%20Travis%20to%20send%20mail%20notification)

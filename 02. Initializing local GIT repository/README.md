@@ -6,3 +6,5 @@
 	- This command will create a local GIT repository
 	- GIT will create hidden .git folder (this is a folder GIT is using to maintain your local repository - you do not need to touch this folder, you will be using only GIT commands to work with you repository)
 5. If you want, you can read more about git init here: [https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init)
+
+Next exercise: [3. Commiting your code to GIT](https://github.com/jurajtoth/fei-buildtools-ci/tree/master/03.%20Commiting%20your%20code%20to%20GIT)

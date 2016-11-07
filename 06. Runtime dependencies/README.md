@@ -26,3 +26,5 @@
 &lt;/dependency&gt;</pre> inside the `<dependencies>` element in pom.xml.
 7. Compile the application using `mvn compile` command from command-line. You will see all dependencies deleted in step 2 downloaded automatically by maven.
 8. Check the compiled application in the `target` folder.
+
+Next exercise: [7. Test dependencies](https://github.com/jurajtoth/fei-buildtools-ci/tree/master/07.%20Test%20dependencies)

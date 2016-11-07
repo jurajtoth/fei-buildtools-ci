@@ -36,3 +36,5 @@ Launch the application by executing `java -jar target/movielist-maven-0.0.1-SNAP
 6. Stop the application with CTRL + C in the commandline
 7. Commit the application changes with `commit -a`
 8. Push the latest changes to Github wiht `git push origin master`
+
+Last exercise: [12. Deploying the application to Heroku](https://github.com/jurajtoth/fei-buildtools-ci/tree/master/12.%20Deploying%20the%20application%20to%20Heroku)

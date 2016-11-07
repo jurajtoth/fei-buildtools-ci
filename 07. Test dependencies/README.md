@@ -9,4 +9,6 @@
 &lt;/dependency&gt;</pre>
 	- you can read more about maven depedency scopes here: [https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#Dependency_Scope](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#Dependency_Scope)
 4. run tests using `mvn test` command from command-line. You will see maven downloading **JUnit** library automatically. After that you should see all tests pass successfully.
+
+Next exercise: [8. Packaging application](https://github.com/jurajtoth/fei-buildtools-ci/tree/master/08.%20Packaging%20application)
 	

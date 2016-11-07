@@ -9,3 +9,5 @@
 4. Try to run application's test
 	1. Start **run-test.bat**
 	2. Test should pass successfully
+
+Next exercise: [2. Initializing local GIT repository](https://github.com/jurajtoth/fei-buildtools-ci/tree/master/02.%20Initializing%20local%20GIT%20repository)
